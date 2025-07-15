@@ -51,8 +51,3 @@ Haz clic en el botón para abrir el notebook directamente en Google Colab:
 - Las diferencias de facturación entre tiendas pueden deberse a la ubicación, promociones o calificación del servicio.
 - Las categorías más vendidas pueden guiar decisiones sobre inventario y marketing.
 - Las calificaciones permiten identificar oportunidades de mejora en la experiencia del cliente.
-
-## 📬 Contacto
-
-Brayan Ernesto Chumpitaz Ángeles  
-📧 [LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/brayanchumpitaz/)) 
